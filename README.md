@@ -24,7 +24,7 @@ I build *fast, reliable systems* under the hood and *clean, friendly interfaces*
 
 **🌱 Right now**
 
-B.Tech CSE '27 (9.4 CGPA) · 450+ LeetCode · dreaming in pixels 💜 💖 ✨
+B.Tech CSE '27 · 450+ LeetCode · dreaming in pixels 💜 💖 ✨
 
 ---
 
