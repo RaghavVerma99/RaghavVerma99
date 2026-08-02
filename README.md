@@ -12,8 +12,9 @@ I build *fast, reliable systems* under the hood and *clean, friendly interfaces*
 
 **⚙️ What I build** ✨
 
-- 🧠 **HydraBroker** — Java TCP message broker · 85k+ ops/sec · Raft
+- 🧠 **CppLab** - React and Node.js
 - 🚦 **ApolloGateway** — C++20 L7 proxy · `epoll` · 20k sockets/thread
+- 🌐 **Android-TODO-App** - Dart, Flutter, RiverPod, Hive.
 - 🔐 **CryptX** — E2E encrypted messenger · React + Flask · 95+ Lighthouse
 
 **🧰 My toolbox** ⭐
