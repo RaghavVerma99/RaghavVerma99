@@ -29,6 +29,6 @@ B.Tech CSE '27 · 450+ LeetCode · dreaming in pixels 💜 💖 ✨
 
 ---
 
-📬 [LinkedIn](https://linkedin.com/in/RaghavVerma7) · [GitHub](https://github.com/RaghavVerma99) · [LeetCode](https://leetcode.com/u/risshu_raghav/) · [Email](mailto:risshu.verma7@gmail.com)
+📬 [LinkedIn](https://www.linkedin.com/in/raghav-verma7/) · [GitHub](https://github.com/RaghavVerma99) · [LeetCode](https://leetcode.com/u/risshu_raghav/) · [Email](mailto:risshu.verma7@gmail.com)
 
 *Made with 💙 and slightly too much coffee.* ✨ 💖 ⭐
